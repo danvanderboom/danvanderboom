@@ -2,14 +2,15 @@
 
 <h1>Hi, I'm Dan Vanderboom 👋</h1>
 
-<b>Founder of <a href="https://cognos.is">Critical Insight</a> · building CognOS, an operating system for AI agents</b><br/>
+<b>Founder of <a href="https://www.criticalinsight.ai/CognOS.html">Critical Insight</a> · building CognOS, an operating system for AI agents</b><br/>
 <sub>Distributed systems · cognitive architectures · the structure of intelligent systems</sub>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/danvanderboom"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://cognos.is"><img src="https://img.shields.io/badge/CognOS-cognos.is-5B47FB?style=flat" alt="CognOS"/></a>
+<a href="https://www.criticalinsight.ai/CognOS.html"><img src="https://img.shields.io/badge/CognOS-criticalinsight.ai-5B47FB?style=flat" alt="CognOS"/></a>
 <a href="https://criticalinsights.substack.com"><img src="https://img.shields.io/badge/Substack-Overspecified-FF6719?style=flat&logo=substack&logoColor=white" alt="Substack"/></a>
+<a href="https://www.youtube.com/@CognOSAgents"><img src="https://img.shields.io/badge/YouTube-CognOS%20Agents-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/></a>
 <a href="mailto:dan@criticalinsight.ai"><img src="https://img.shields.io/badge/Email-dan%40criticalinsight.ai-00D9C0?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
@@ -18,12 +19,13 @@
 
 ## What I'm building
 
-**[CognOS](https://cognos.is)** is a runtime that makes AI agents safe to run in production. Agents, workflows, tools and policies are declared as versioned YAML resources, Kubernetes-style, and the runtime enforces them: every tool call passes through an admission pipeline, every model call is budgeted and recorded, memory carries provenance, and humans approve what policy says they must. It runs on .NET and Orleans, self-hosted, across Azure, AWS, GCP or air-gapped.
+**[CognOS](https://www.criticalinsight.ai/CognOS.html)** is a runtime that makes AI agents safe to run in production. Agents, workflows, tools and policies are declared as versioned YAML resources, Kubernetes-style, and the runtime enforces them: every tool call passes through an admission pipeline, every model call is budgeted and recorded, memory carries provenance, and humans approve what policy says they must. It runs on .NET and Orleans, self-hosted, across Azure, AWS, GCP or air-gapped.
 
 I build it with a hierarchical organization of AI coding agents, held to the same discipline CognOS imposes on its own agents. The platform is the proof of its own thesis.
 
 - 🧠 **[Reactive Composite Memory (RCM)](https://github.com/critical-insight-ai/rcm-spec)** — an open design pattern for populating, composing and governing context for AI agents. RCM is to context lifecycle what REST is to web APIs. 177-page spec · [9-minute explanation](https://www.youtube.com/watch?v=Sf32vqAgLr8)
 - 🎙️ **Agentic Horizons** — a podcast researched, scripted and produced by a team of six named agents running on CognOS, unattended. Publishing begins once intro and outro music land.
+- 📺 **[CognOS Agents on YouTube](https://www.youtube.com/@CognOSAgents)** — short explainers of the ideas behind CognOS, made with NotebookLM before the platform existed. The thinking came first; the runtime caught up.
 - ✍️ **Overspecified** — a Substack on the structure of intelligent systems: compression, hierarchy, governance, sparse activation, and why one person can now run an organization of agents. https://criticalinsights.substack.com
 
 ## Ideas I keep returning to
