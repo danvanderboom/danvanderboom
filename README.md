@@ -44,12 +44,11 @@ Twenty-five years of shipping software, from Silicon Valley startups to Fortune 
 
 | Repo | What it is |
 |---|---|
-| [Xamarin-Forms-TreeView](https://github.com/danvanderboom/Xamarin-Forms-TreeView) | A TreeView layout control for Xamarin.Forms. ⭐ 67 |
-| [Orleans.MobileDashboard](https://github.com/danvanderboom/Orleans.MobileDashboard) | A cross-platform mobile dashboard for Orleans actor clusters |
-| [H3.NET](https://github.com/danvanderboom/H3.NET) | A pure .NET port of Uber's H3 geospatial indexing library |
-| [Orleans.TelemetryConsumers.MetricsTracker](https://github.com/danvanderboom/Orleans.TelemetryConsumers.MetricsTracker) | Cluster-wide Orleans metrics aggregation |
-| [rcm-spec](https://github.com/critical-insight-ai/rcm-spec) | The Reactive Composite Memory specification |
-
+| [Aetherium](https://github.com/danvanderboom/Aetherium) | A server-authoritative multiplayer simulation engine on .NET 10, Orleans and SignalR: procedural worlds from dungeons to planets, continuous speed-based simulation, AI agents with memory, and a semantic perception protocol so any renderer (terminal, Unity, Unreal) can bind to it. Games are data; three ship with it. |
+| [rcm-spec](https://github.com/critical-insight-ai/rcm-spec) | The Reactive Composite Memory specification: how context for AI agents is populated, composed and governed over its lifecycle |
+| [H3.NET](https://github.com/danvanderboom/H3.NET) | A pure .NET port of Uber's H3 hexagonal geospatial indexing library |
+| [Xamarin-Forms-TreeView](https://github.com/danvanderboom/Xamarin-Forms-TreeView) | A TreeView layout control for Xamarin.Forms, back when cross-platform mobile was the hard problem. ⭐ 67 |
+| [ChessDotNet.AI](https://github.com/danvanderboom/ChessDotNet.AI) | Pluggable chess-playing agents and Monte Carlo search tooling from 2019, before "agent" meant a language model |
 ## Toolbox
 
 <div align="center">
